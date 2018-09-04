@@ -1,0 +1,5 @@
+labels:
+  blockers:
+    - "invalid"
+  requirements:
+    - "bug"
