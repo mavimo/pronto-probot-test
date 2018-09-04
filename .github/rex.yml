@@ -1,6 +1,3 @@
-skip:
- - milestone
-
 labels:
   blockers:
     - "invalid"
